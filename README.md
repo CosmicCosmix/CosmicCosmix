@@ -88,7 +88,7 @@
 <td width="33%" align="center" valign="top">
 
 ### 🏢 ERP System
-<img src="https://via.placeholder.com/350x200/0D1117/58A6FF?text=ERP+Dashboard" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
+<img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/Screenshot%20(189).png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
 
 **Enterprise Resource Planning**  
 `C#` `ASP.NET` `SQL Server`
@@ -106,7 +106,7 @@
 <td width="33%" align="center" valign="top">
 
 ### 🌐 Web Portal
-<img src="https://via.placeholder.com/350x200/0D1117/DD0031?text=Web+Application" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
+<img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/Screenshot%20(188).png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
 
 **Full Stack Portal**  
 `React` `Node.js` `MySQL`
@@ -143,7 +143,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### 💡 *"ERPs, a Bajillion Commits Away..."*
+### 💭 *ERPs, a Bajillion Commits Away...*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
