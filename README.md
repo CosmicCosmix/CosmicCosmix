@@ -97,7 +97,7 @@
 <td width="33%" align="center" valign="top">
 
 ### 📱 Mobile App
-<img src="https://via.placeholder.com/350x200/0D1117/61DAFB?text=Mobile+Interface" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
+<img src="https://raw.githubusercontent.com/CosmicCosmix/HackathonFlutterApp-main/refs/heads/master/Screenshot_20251124_174042.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
 
 **Cross-Platform Solution**  
 `Flutter` `Firebase` `Dart`
