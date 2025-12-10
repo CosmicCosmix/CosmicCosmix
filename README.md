@@ -119,24 +119,21 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+
+<table>
 <tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=cosmiccosmix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="100%"/>
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmiccosmix&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
+<td>
+<img src="https://streak-stats.demolab.com/?user=cosmiccosmix&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiccosmix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&hide=jupyter%20notebook" width="100%"/>
-</td>
-<td width="50%" align="center" valign="top">
+<td align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="300">
 </td>
 </tr>
 </table>
+
 </div>
 
 <div align="center">
