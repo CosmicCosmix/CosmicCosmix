@@ -88,7 +88,7 @@
 <td width="33%" align="center" valign="top">
 
 ### 🏢 ERP System
-<img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/Screenshot%20(189).png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
+<img src="wwwroot/ERP-1.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
 
 **Enterprise Resource Planning**  
 `C#` `ASP.NET` `SQL Server`
@@ -106,7 +106,7 @@
 <td width="33%" align="center" valign="top">
 
 ### 🌐 Web Portal
-<img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/Screenshot%20(188).png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
+<img src="wwwroot/home-page.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" width="100%"/>
 
 **Full Stack Portal**  
 `React` `Node.js` `MySQL`
