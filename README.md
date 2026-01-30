@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header GIF" width="500"/>
 
-# 🙏 Guten Tag ヾ(^▽^*))) I am Abhilash Pattnaik
+# 🙏 Guten Tag (｡･∀･)ﾉﾞ I am Abhilash Pattnaik
 
 ### CRM/ERP Developer | Full Stack Engineer
 
@@ -57,7 +57,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -82,7 +82,7 @@
       <br>
       <p align="center">
         <a href="wwwroot/ERP-1.png" target="_blank">
-          <img src="https://via.placeholder.com/500x300/0D1117/58A6FF?text=ERP+Dashboard" width="100%" alt="ERP System"/>
+          <img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/wwwroot/ERP-1.png?raw=true" width="100%" alt="ERP System"/>
         </a>
       </p>
       <p align="center">
@@ -99,14 +99,14 @@
       <br>
       <p align="center">
         <a href="wwwroot/home-page.png" target="_blank">
-          <img src="https://via.placeholder.com/500x300/0D1117/58A6FF?text=Web+Portal" width="100%" alt="Web Portal"/>
+          <img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/wwwroot/home-page.png?raw=true" width="100%" alt="Web Portal"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
       <p align="center">
@@ -120,7 +120,7 @@
       <br>
       <p align="center">
         <a href="wwwroot/ERP-2.png" target="_blank">
-          <img src="https://via.placeholder.com/500x300/0D1117/58A6FF?text=Analytics+Dashboard" width="100%" alt="Analytics Dashboard"/>
+          <img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/wwwroot/ERP-2.png?raw=true" width="100%" alt="Analytics Dashboard"/>
         </a>
       </p>
       <p align="center">
@@ -204,7 +204,7 @@
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicCosmix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicCosmix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%" alt="Contribution Graph"/>
 
 </div>
