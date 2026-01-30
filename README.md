@@ -57,7 +57,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -81,14 +81,14 @@
       <h3 align="center">🏢 Enterprise ERP System</h3>
       <br>
       <p align="center">
-        <a href="#" target="_blank">
+        <a href="wwwroot/ERP-1.png" target="_blank">
           <img src="https://via.placeholder.com/500x300/0D1117/58A6FF?text=ERP+Dashboard" width="100%" alt="ERP System"/>
         </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
       <p align="center">
         Full-featured Enterprise Resource Planning system with inventory management, HR modules, and real-time analytics.
@@ -98,13 +98,15 @@
       <h3 align="center">🌐 Interactive Web Portal</h3>
       <br>
       <p align="center">
-        <a href="#" target="_blank">
+        <a href="wwwroot/home-page.png" target="_blank">
           <img src="https://via.placeholder.com/500x300/0D1117/58A6FF?text=Web+Portal" width="100%" alt="Web Portal"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
       <p align="center">
@@ -117,7 +119,7 @@
       <h3 align="center">📊 Data Analytics Dashboard</h3>
       <br>
       <p align="center">
-        <a href="#" target="_blank">
+        <a href="wwwroot/ERP-2.png" target="_blank">
           <img src="https://via.placeholder.com/500x300/0D1117/58A6FF?text=Analytics+Dashboard" width="100%" alt="Analytics Dashboard"/>
         </a>
       </p>
@@ -225,12 +227,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=CosmicCosmix&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-  
 </div>
