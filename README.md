@@ -41,6 +41,27 @@
 </table>
 </div>
 
+---
+
+## 🏆 Hackathons
+ 
+- **SIH 2025 | TrackSure** · *Travel & Tourism · PS #25082 · Team of 6* · Mobile-first travel behavior tracking app built on ASP.NET Razor Pages and SQL. Combines passive GPS location data with active user trip inputs to generate real-world mobility insights beyond what standard navigation apps provide.
+ 
+- **Smart AI India Hackathon | SatarkNetra.AI** · *Cybersecurity · Team of 3* · AI-powered personal anti-scam assistant for WhatsApp, Telegram, and SMS. Auto-captures suspicious conversations with user consent, detects fraud patterns in real time, and generates time-wasting replies — protecting users while building evidence for law enforcement.
+ 
+- **AcadFlip | Flow Fund** · *FinTech · MSME · Team of 4* · Flutter-based unified financial discovery platform addressing India's ₹30 lakh crore MSME credit gap. Matches small businesses with government schemes (PMEGP, MUDRA), bank loans across 50+ banks, and local programs via a progressive disclosure UI and pre-filled PDF application generation.
+ 
+- **KSR College GDG S3 | Udyog Setu — Hack With GDG S3** · *B2B Investment · Team of 3* · LinkedIn-style B2B investment marketplace for India's 6 crore+ MSMEs. Business profiles pull from public MCA and GST data; AI-powered smart discovery matches MSMEs with compatible investors and partners. Freemium model with transaction-based revenue.
+ 
+- **Texus NXTGEN Hackathon (SRM Ramapuram IST) | SportUp** · *Athletech · Team of 4* · Centralized web platform for grassroots sports community management. Admins create sport communities, manage match schedules, and publish live leaderboards. Built on .NET Razor Pages and C# within a 24-hour limit; targets amateur athletes and local coaches with a freemium B2B2C model.
+ 
+- **Nellai Hackathon | MatriSetu** · *Maternal & Child Health · StartupTN × GDG · Team of 4* · React Native app for ASHA health workers to digitally track maternal records, vaccination schedules, nutrition stock, and contraceptive inventory. Mothers receive QR-based identity cards; works offline and syncs on reconnection. Supports Tamil, English, and Hindi.
+ 
+- **DevHub 1.0 Hackathon (VIT Chennai) | Code Crackers** · *Interior Design · Team of 2* · Web-based 3D room visualization tool — "Canva for interior design." Users upload a room photo; the platform converts it to an interactive 3D model for drag-and-drop furniture placement. Built on React with a Drogon (C++) backend and WebAssembly 3D rendering. Revenue via affiliate e-commerce and B2B API licensing.
+ 
+- **DevsHouse Hackathon (GDG VIT Chennai) | ChargeKaro** · *CleanTech · Open Innovation · Team of 3* · Peer-to-peer EV charging marketplace connecting households with surplus subsidized electricity to nearby EV drivers. IoT smart adapters track session data; hosts set dynamic pricing; payments via an Uber-style automated system. Built on React Native, .NET Razor Pages, ASP.NET Core, and Supabase.
+
+---
 
 ## 💻 Tech Arsenal
 
@@ -55,7 +76,6 @@
 
 ### Backend & Database
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -105,7 +125,6 @@
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
@@ -115,12 +134,12 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">📊 Data Analytics Dashboard</h3>
       <br>
       <p align="center">
         <a href="wwwroot/ERP-2.png" target="_blank">
-          <img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/wwwroot/ERP-2.png?raw=true" width="100%" alt="Analytics Dashboard"/>
+          <img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/wwwroot/ERP-2.png?raw=true" width="60%" alt="Analytics Dashboard"/>
         </a>
       </p>
       <p align="center">
@@ -132,23 +151,6 @@
         Real-time business intelligence dashboard with interactive charts, KPI tracking, and custom reporting.
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Platform</h3>
-      <br>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/500x300/0D1117/58A6FF?text=E-Commerce+Platform" width="100%" alt="E-Commerce Platform"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Razor-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      </p>
-      <p align="center">
-        Full-featured e-commerce solution with payment gateway integration, order management, and admin panel.
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -157,37 +159,36 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📱 Cross-Platform Mobile App</h3>
+      <h3 align="center">✈️ TrackSure — SIH 2025</h3>
       <br>
       <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x500/0D1117/58A6FF?text=Mobile+App" width="60%" alt="Mobile App"/>
-        </a>
+        <img src="https://via.placeholder.com/300x500/0D1117/58A6FF?text=TrackSure+App" width="60%" alt="TrackSure App Screenshot"/>
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+      </p>
+      <p align="center">
+        A mobile-first travel tracking app built for Smart India Hackathon 2025 (PS #25082). Records real travel behavior by combining GPS location data, trip purpose inputs, and Google Maps insights. Goes beyond navigation — converts passive movement data into actionable urban mobility insights for planners and researchers.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ SatarkNetra.AI — Anti-Scam Assistant</h3>
+      <br>
+      <p align="center">
+        <img src="https://via.placeholder.com/300x500/0D1117/58A6FF?text=SatarkNetra+App" width="60%" alt="SatarkNetra App Screenshot"/>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI_Powered-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
       </p>
       <p align="center">
-        Feature-rich mobile application with offline support, push notifications, and cloud synchronization.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 Task Management App</h3>
-      <br>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x500/0D1117/58A6FF?text=Task+Manager" width="60%" alt="Task Manager"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      </p>
-      <p align="center">
-        Productivity app with task scheduling, reminders, team collaboration, and progress tracking features.
+        Your personal anti-scam assistant. Auto-captures suspicious conversations on WhatsApp, Telegram & SMS with user permission. Uses AI to detect fraud patterns in real time and generates believable, time-wasting replies — keeping scammers busy and protecting vulnerable users. Evidence is logged to assist law enforcement.
       </p>
     </td>
   </tr>
@@ -198,25 +199,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmicCosmix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CosmicCosmix&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak"/>
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicCosmix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicCosmix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-  
-### 🏆 GitHub Trophies
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=CosmicCosmix&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
